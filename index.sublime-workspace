@@ -1,0 +1,245 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"test",
+				"test2"
+			],
+			[
+				"std",
+				"stdio.h"
+			],
+			[
+				"td",
+				"td"
+			],
+			[
+				"th",
+				"th"
+			],
+			[
+				"f",
+				"figcaption"
+			],
+			[
+				"fi",
+				"figure"
+			],
+			[
+				"opt",
+				"option"
+			],
+			[
+				"c",
+				"comment"
+			],
+			[
+				"b",
+				"br"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/Documents/LESSON NOTES/PROGRAMMING PRACTICE/melvin.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/images 2.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/New Text Document.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/New Text Document (2).css",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/forms, entering text.html",
+		"/C/Users/User/OneDrive/Documents/Documents/LESSON NOTES/PROGRAMMING PRACTICE/images.html",
+		"/C/Users/User/OneDrive/Documents/Documents/LESSON NOTES/PROGRAMMING PRACTICE/fuctions.c",
+		"/C/Users/User/OneDrive/Documents/code_lesson/meow",
+		"/C/Users/User/OneDrive/Documents/code_lesson/meow.c",
+		"/C/Users/User/OneDrive/Desktop/second-text.html",
+		"/C/Users/User/OneDrive/Desktop/first-image.html",
+		"/C/Users/User/OneDrive/Documents/Documents/LESSON NOTES/PROGRAMMING PRACTICE/New Text Document.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/old code, border and background.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/long table 2.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/long table.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/forms, making choices.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/forms, drop down list box.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/submit button.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/file input box.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/multiple drop down select.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/table 2.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/tables.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/body, head, and title.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/atributes.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/Address.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/abbreviation and accronym.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/links.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/images.html",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/FORMS.html",
+		"/C/Users/User/AppData/Local/Microsoft/Windows/INetCache/IE/M02PCFFS/images-6[1].webp",
+		"/C/Users/User/OneDrive/Pictures/IMG-20211228-WA0007.jpg",
+		"/C/Users/User/OneDrive/Documents/LESSON NOTES/PROGRAMMING PRACTICE/LIST.html",
+		"/C/Users/User/Documents/LESSON NOTES/PROGRAMMING PRACTICE/LIST.html",
+		"/C/Users/User/Documents/LESSON NOTES/PROGRAMMING PRACTICE/Address.html",
+		"/C/Users/User/Desktop/second-text.html",
+		"/C/Users/User/Desktop/first-text.html",
+		"/C/Users/User/Documents/LESSON NOTES/PROGRAMMING PRACTICE/body, head, and title.html",
+		"/C/Users/User/Documents/LESSON NOTES/PROGRAMMING PRACTICE/rm10.html",
+		"/C/Users/User/Documents/LESSON NOTES/PROGRAMMING PRACTICE/links.html",
+		"/C/Users/User/Documents/LESSON NOTES/PROGRAMMING PRACTICE/ordered list.html",
+		"/C/Users/User/Documents/LESSON NOTES/PROGRAMMING PRACTICE/New Text Document.html",
+		"/C/Users/User/Desktop/@first-text.html",
+		"/C/Users/User/Documents/LESSON NOTES/PROGRAMMING PRACTICE/hggf.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
